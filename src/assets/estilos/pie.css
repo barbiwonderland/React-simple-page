@@ -1,0 +1,48 @@
+.pie{
+    background-color: #22BBDA;
+
+ position: relative;
+
+ width:100vw;
+ height:80px;
+ display: flex;
+    align-content: center;
+    align-items: center;
+    bottom: 0;
+    margin-top: 30px;
+
+}
+.pie ul{
+    
+
+margin:20px;
+list-style: none!important;
+display: inline-block;
+padding: 0!important;
+
+
+}
+
+.pie ul li {
+    color: white;
+    list-style: none;
+    font-size: 30px;
+    padding: 0!important;
+  
+    
+}
+ .pie li a{
+    color:white;
+    list-style: none!important;
+    padding: 0!important;
+    
+}
+.pie ul li a:hover{
+    background: rgb(183, 65, 199);
+ 
+}
+.centro{
+margin: auto!important;
+align-items: center!important;
+align-content: center!important;
+}
