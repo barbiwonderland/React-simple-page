@@ -27,7 +27,7 @@ class Footer extends Component {
   </ul>
   <ul>
         <li>
-        <a href="#">  <FaLinkedin/></a>
+        <a href="https://www.linkedin.com/in/barbara-bottazzi-960541b6/">  <FaLinkedin/></a>
         </li>
   </ul>
                 </div>

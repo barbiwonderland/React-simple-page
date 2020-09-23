@@ -9,13 +9,13 @@ class Contact extends Component {
             <div>
 
 <form>
-    <label> Nombre y apellido:</label>
-    <input type="text" placeholder="Tu nombre..."/>
+    <label> Name </label>
+    <input type="text" placeholder="Your name..."/>
     <label for="lname">E-mail</label>
-    <input type="text" id="lname" name="lastname" placeholder="Tu e-mail..."/>
-    <label for="subject">Mensaje</label>
-    <textarea id="subject" name="subject" placeholder="Tu mensaje..." ></textarea>
-    <input type="submit" value="Enviar"/>
+    <input type="text" id="lname" name="lastname" placeholder="Your e-mail..."/>
+    <label for="subject">Message</label>
+    <textarea id="subject" name="subject" placeholder="Your message..." ></textarea>
+    <input type="submit" value="SEND"/>
 
 </form>
 

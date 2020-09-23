@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Footer from "./components/footer";
 import App from "./components/app";
 import "./assets/estilos/nav.css";
+import DemoCarousel from "./components/carousel";
 
 
 

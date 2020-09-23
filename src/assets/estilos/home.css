@@ -1,15 +1,58 @@
+
 .home{
     text-align: center;
     color:#43BFE0;
+    width:90vw!important;
+    font-family: 'Dancing Script', cursive;
+
  
 }
 .home p {
     font-size: 18px;
     font-family: cursive;
-    color:black;
+  
+    width: 100vw;
     
   
 }
 .home h4{
-    color:#43BFE0;
+    color:black;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-size: 50px;
+}
+
+.home img{
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: zoomIn;
+
+    ; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+}
+.home{
+    margin: auto;
+    align-content: center;
+    align-items: center;
+      }
+@media only screen and (max-width: 600px)
+{
+  .home img{
+      width: 80vw!important;
+      height: auto!important;
+      align-items: center;
+      align-content: center;
+      margin: auto;
+    
+  }
+  .home{
+margin: auto;
+align-content: center;
+align-items: center;
+  }
+
 }
