@@ -11,15 +11,15 @@ p{
    
 }
 .nosotros h4{
-  font-family: 'Merienda', cursive;
+font-family: cursive;
   color:#43BFE0;
    
    align-content: center;
    margin: auto;
    text-align: center;
    margin-top:100px;
-font-size: 40px;
-   
+font-size: 30px;
+   font-style: italic;
    padding:3px;
 }
 
